@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

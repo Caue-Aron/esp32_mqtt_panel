@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader
+/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/CMakeFiles/bootloader-complete.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

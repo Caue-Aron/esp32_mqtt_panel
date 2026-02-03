@@ -1,0 +1,2 @@
+source /home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader/gdbinit/symbols
+source /home/aronimo/Desktop/esp32_mqtt_panel/build/bootloader/gdbinit/connect
